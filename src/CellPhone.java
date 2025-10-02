@@ -5,6 +5,9 @@ public class CellPhone {
     private String phoneNumber;
     private String owner;
 
+
+
+
     public CellPhone() {
       serialNumber = 0L;
       model = " ";
