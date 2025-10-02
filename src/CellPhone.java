@@ -15,6 +15,6 @@ public class CellPhone {
     }
     public CellPhone(Long serialNumber, String model, String carrier, String phoneNumber,
                      String owner) {
-        this.serialNumber = serialNumber
+        this.serialNumber = serialNumber;
     }
 }
