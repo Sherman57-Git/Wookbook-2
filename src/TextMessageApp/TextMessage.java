@@ -1,4 +1,5 @@
-import java.security.PrivateKey;
+package TextMessageApp;
+
 import java.time.LocalDate;
 
 // creating class & fields
