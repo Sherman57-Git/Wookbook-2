@@ -1,3 +1,5 @@
+package LoopSwitches;
+
 public class ForLoop {
     public static void main(String[] args) throws InterruptedException {
        for (int x = 10; x > 0; x--) {

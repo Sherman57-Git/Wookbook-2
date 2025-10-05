@@ -1,3 +1,5 @@
+package CellPhone;
+
 public class CellPhone {
     private Long serialNumber;
     private String model;

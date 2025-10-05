@@ -1,3 +1,5 @@
+package LoopSwitches;
+
 public class SwitchExercise {
     public static void main(String[] args) {
         int days = 1;

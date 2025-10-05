@@ -1,3 +1,5 @@
+package CellPhone;
+
 import java.util.Scanner;
 
 public class CellPhoneApplication {

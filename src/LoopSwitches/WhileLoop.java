@@ -1,3 +1,5 @@
+package LoopSwitches;
+
 public class WhileLoop {
     public static void main(String[] args) {
     int x = 5;

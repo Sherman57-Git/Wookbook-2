@@ -1,3 +1,5 @@
+package FullName;
+
 import java.util.Scanner;
 
 public class FullName {
