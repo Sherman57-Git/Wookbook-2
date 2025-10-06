@@ -1,3 +1,5 @@
+package StringExercises;
+
 public class Homescorewins {
     public static void main(String[] args) {
         String highscore = "Home:Visitor|21:9";

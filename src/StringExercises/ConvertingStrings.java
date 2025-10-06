@@ -1,3 +1,5 @@
+package StringExercises;
+
 public class ConvertingStrings {
     public static void main(String[] args) {
         // 1. Convert "42" to an int. Add 8. Print result.

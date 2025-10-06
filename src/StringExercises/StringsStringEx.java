@@ -1,3 +1,5 @@
+package StringExercises;
+
 public class StringsStringEx {
     public static void main(String[] args) {
         // Hello Length from a string
